@@ -1,0 +1,30 @@
+{
+    "FirstOrderFindings": {
+        "Unknown": "Unknown",
+        "PLATELET COUNT 296": "Unknown",
+        "NEUTROPHILS 62": "Unknown",
+        "LYMPHOCYTES 32": "Unknown",
+        "MONOCYTES 4": "Unknown",
+        "EOSINOPHILS 2": "Unknown",
+        "Page": "Unknown",
+        "BASOPHILS 0": "Unknown",
+        "R 03 0 -": "Unknown",
+        "ASPARTATE AMINOTRANSFERASE(AST/SGOT) 25": "Unknown",
+        "ALKALINE PHOSPHATASE 82": "Unknown",
+        "GAMMA GLUTAMYL TRANSFERASE (GGT) 28": "Unknown",
+        "LACTATE DEHYDROGENASE 161": "Unknown",
+        "BLOOD UREA NITROGEN 12": "Unknown",
+        "SERUM 139": "Unknown",
+        "SERUM 103": "Unknown",
+        "IRON 73": "Unknown",
+        "TOTAL IRON BINDING CAPACITY 321": "Unknown",
+        "SATURATION 23": "Unknown",
+        "NEUTROPHILS": "Unknown",
+        "DEHYDROGENASE 161": "Unknown",
+        "NITROGEN 12": "Unknown",
+        "BINDING CAPACITY 321": "Unknown"
+    },
+    "SecondOrderInsights": [],
+    "CausalHypotheses": [],
+    "NarrativeExplanation": "Based on the blood report, the following concerns were noted: mostly normal values."
+}
