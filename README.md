@@ -1,5 +1,4 @@
-# Blood-Report-Insight
-# Blood Report Health Insight Extractor
+# Blood Report Insight
 
 ## Overview
 This project is designed to automatically extract and analyze blood test results from a medical PDF report. It uses Python and Streamlit to deliver meaningful health insights — both direct abnormalities and deeper health patterns — all presented through a user-friendly interface.
